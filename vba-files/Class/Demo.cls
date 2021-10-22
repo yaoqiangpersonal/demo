@@ -11,4 +11,5 @@ Private a As String
 
 Private  Function demo()
 
+  dim res as Range
 End Function
