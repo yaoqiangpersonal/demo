@@ -12,5 +12,4 @@ Private  Function abc()
     dim a  As String
     a = "123"
     Xdebug.printx a
-
 End Function
