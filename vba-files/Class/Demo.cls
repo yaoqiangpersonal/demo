@@ -8,3 +8,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 Private a As String
+
+Private  Function demo()
+
+End Function
